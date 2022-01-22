@@ -1,0 +1,19 @@
+{
+  "name": "familychat-socket.io",
+  "version": "1.0.0",
+  "description": "family chat ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naif1995/familyChat-socket.io.git"
+  },
+  "author": "Naif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naif1995/familyChat-socket.io/issues"
+  },
+  "homepage": "https://github.com/Naif1995/familyChat-socket.io#readme"
+}
